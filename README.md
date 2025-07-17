@@ -34,7 +34,7 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: [sharma6688anuj.gmail.com](sharma6688anuj.gmail.com)  
+- 📧 Email: [sharma6688anuj.@gmail.com](sharma6688anuj.@gmail.com)  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/pushpendra20](https://www.linkedin.com/in/pushpendra20)  
 - 📸 Instagram: [https://instagram.com/ssup.anuj](https://instagram.com/ssup.anuj)
 
