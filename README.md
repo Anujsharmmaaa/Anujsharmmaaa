@@ -9,13 +9,7 @@
 ---
 
 ## 🚀 Highlighted Projects
-
-- 🔐 [**Password Manager**](https://github.com/No1Gaurav/Password_Manager)  
-  Desktop-based password management tool with secure credential storage using Tkinter and MySQL/SQLite.
-
-- 🤖 [**AI-Agents**](https://github.com/No1Gaurav/AI-Agents)  
-  A modular Python framework demonstrating interactive AI agents for automating complex tasks.
-
+0
 ---
 
 ## 🧠 Technical Skills & Tools
