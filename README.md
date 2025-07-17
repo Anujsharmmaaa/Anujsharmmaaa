@@ -40,9 +40,9 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your.email@example.com](sharma6688anuj.gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/pushpendra20)  
-- 📸 Instagram: [instagram.com/your_username](https://instagram.com/ssup.anuj)
+- 📧 Email: [sharma6688anuj.gmail.com](sharma6688anuj.gmail.com)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/pushpendra20](https://www.linkedin.com/in/pushpendra20)  
+- 📸 Instagram: [https://instagram.com/ssup.anuj](https://instagram.com/ssup.anuj)
 
 ---
 
